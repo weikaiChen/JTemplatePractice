@@ -1,0 +1,5 @@
+D:\程式練習\JTemplatePractice\JTemplatePractice\bin\JTemplatePractice.dll
+D:\程式練習\JTemplatePractice\JTemplatePractice\bin\JTemplatePractice.pdb
+D:\程式練習\JTemplatePractice\JTemplatePractice\obj\Debug\JTemplatePractice.csprojResolveAssemblyReference.cache
+D:\程式練習\JTemplatePractice\JTemplatePractice\obj\Debug\JTemplatePractice.dll
+D:\程式練習\JTemplatePractice\JTemplatePractice\obj\Debug\JTemplatePractice.pdb
